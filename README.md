@@ -20,10 +20,10 @@
 ## Our project consists of
 
  
-### [Back-end](https://github.com/ntua/softeng23-55/blob/main/back-end/README.md)
-### [CLI client](https://github.com/ntua/softeng23-55/blob/main/cli-client/README.md)
-### [Front-end](https://github.com/ntua/softeng23-55/blob/main/front-end/README.md)
-### [Documentation]( https://github.com/ntua/softeng23-55/blob/main/documentation/README.md)
-### [ai-log](https://github.com/ntua/softeng23-55/blob/main/ai-log/README.md)
+### [Back-end](https://github.com/korinaak/Software_Engineering/tree/main/back-end)
+### [CLI client](https://github.com/korinaak/Software_Engineering/tree/main/cli-client)
+### [Front-end](https://github.com/korinaak/Software_Engineering/tree/main/front-end)
+### [Documentation](https://github.com/korinaak/Software_Engineering/tree/main/documentation)
+### [ai-log](https://github.com/korinaak/Software_Engineering/tree/main/ai-log)
  
 
